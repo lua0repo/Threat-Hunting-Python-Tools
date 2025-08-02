@@ -1,0 +1,4 @@
+reports/example_report.csv will contain:
+
+timestamp,source_ip,event
+Aug 1 03:23:11,192.168.1.100,Failed Login
